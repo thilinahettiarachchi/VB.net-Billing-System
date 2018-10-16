@@ -1,0 +1,147 @@
+C:\Users\User\AppData\Local\Temporary Projects\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+C:\Users\User\AppData\Local\Temporary Projects\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\User\AppData\Local\Temporary Projects\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\User\AppData\Local\Temporary Projects\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Users\User\AppData\Local\Temporary Projects\WindowsApplication1\obj\Debug\WindowsApplication1.Form1.resources
+C:\Users\User\AppData\Local\Temporary Projects\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\User\AppData\Local\Temporary Projects\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+C:\Users\User\AppData\Local\Temporary Projects\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+C:\Users\User\AppData\Local\Temporary Projects\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+C:\Users\User\AppData\Local\Temporary Projects\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+C:\Users\User\Desktop\VB Assignment\New folder\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+C:\Users\User\Desktop\VB Assignment\New folder\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+C:\Users\User\Desktop\VB Assignment\New folder\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+C:\Users\User\Desktop\VB Assignment\New folder\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+C:\Users\User\Desktop\VB Assignment\New folder\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\User\Desktop\VB Assignment\New folder\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\User\Desktop\VB Assignment\New folder\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Users\User\Desktop\VB Assignment\New folder\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Form1.resources
+C:\Users\User\Desktop\VB Assignment\New folder\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\User\Desktop\VB Assignment\New folder\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+C:\Users\User\Desktop\VB Assignment\New folder\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Form2.resources
+C:\Users\User\Desktop\VB Assignment\New folder\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Form3.resources
+C:\Users\User\Desktop\VB Assignment\New folder\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Form4.resources
+C:\Users\User\Desktop\VB Assignment\New folder\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Form5.resources
+C:\Users\User\Desktop\VB Assignment\New folder\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Form6.resources
+C:\Users\User\Desktop\VB Assignment\New folder\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Form7.resources
+C:\Users\User\Desktop\VB Assignment\New folder\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Form8.resources
+C:\Users\user\Desktop\VB Assignment\New folder\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Form10.resources
+C:\Users\user\Desktop\VB Assignment\New folder\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Form11.resources
+C:\Users\user\Desktop\VB new\New folder\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+C:\Users\user\Desktop\VB new\New folder\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+C:\Users\user\Desktop\VB new\New folder\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+C:\Users\user\Desktop\VB new\New folder\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+F:\VB new\New folder\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+F:\VB new\New folder\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+F:\VB new\New folder\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+F:\VB new\New folder\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+C:\Users\user\Desktop\VB new\New folder\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Form1.resources
+C:\Users\user\Desktop\VB new\New folder\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Form10.resources
+C:\Users\user\Desktop\VB new\New folder\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Form11.resources
+C:\Users\user\Desktop\VB new\New folder\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Form2.resources
+C:\Users\user\Desktop\VB new\New folder\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Form3.resources
+C:\Users\user\Desktop\VB new\New folder\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Form4.resources
+C:\Users\user\Desktop\VB new\New folder\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Form5.resources
+C:\Users\user\Desktop\VB new\New folder\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Form6.resources
+C:\Users\user\Desktop\VB new\New folder\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Form7.resources
+C:\Users\user\Desktop\VB new\New folder\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Form8.resources
+C:\Users\user\Desktop\VB new\New folder\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\user\Desktop\VB new\New folder\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+C:\Users\user\Desktop\VB new\New folder\WindowsApplication1\WindowsApplication1\bin\Debug\Database2.accdb
+C:\Users\user\Desktop\VB new\New folder\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\user\Desktop\VB new\New folder\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\user\Desktop\VB new\New folder\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Users\user\Desktop\VB new\New folder\WindowsApplication1\WindowsApplication1\bin\Debug\Items2.accdb
+C:\Users\user\Desktop\VB new\New folder\WindowsApplication1\WindowsApplication1\bin\Debug\Items3.accdb
+C:\Users\user\Desktop\VB final\New folder\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+C:\Users\user\Desktop\VB final\New folder\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+C:\Users\user\Desktop\VB final\New folder\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+C:\Users\user\Desktop\VB final\New folder\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+C:\Users\user\Desktop\VB final\New folder\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Form1.resources
+C:\Users\user\Desktop\VB final\New folder\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Form12.resources
+C:\Users\user\Desktop\VB final\New folder\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Form2.resources
+C:\Users\user\Desktop\VB final\New folder\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\user\Desktop\VB final\New folder\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+C:\Users\user\Desktop\VB final\New folder\WindowsApplication1\WindowsApplication1\bin\Debug\Database2.accdb
+C:\Users\user\Desktop\VB final\New folder\WindowsApplication1\WindowsApplication1\bin\Debug\Items2.accdb
+C:\Users\user\Desktop\VB final\New folder\WindowsApplication1\WindowsApplication1\bin\Debug\Items3.accdb
+C:\Users\user\Desktop\VB final\New folder\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\user\Desktop\VB final\New folder\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\user\Desktop\VB final\New folder\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Users\User\Desktop\VB final\New folder\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Form_electricity.resources
+C:\Users\User\Desktop\VB final\New folder\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Form_water.resources
+C:\Users\User\Desktop\VB final\New folder\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Form_Tele.resources
+C:\Users\User\Desktop\VB final\New folder\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Form_creditcard_pay.resources
+C:\Users\User\Desktop\VB final\New folder\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Form_reload.resources
+C:\Users\User\Desktop\VB final\New folder\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Form_bill.resources
+C:\Users\User\Desktop\VB final\New folder\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.form_center_reciept.resources
+C:\Users\User\Desktop\VB final\New folder\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.form_card_reciept.resources
+C:\Users\user\Desktop\thilina\VB final\New folder\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+C:\Users\user\Desktop\thilina\VB final\New folder\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+C:\Users\user\Desktop\thilina\VB final\New folder\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+C:\Users\user\Desktop\thilina\VB final\New folder\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+C:\Users\user\Desktop\thilina\VB final\New folder\WindowsApplication1\WindowsApplication1\bin\Debug\Database2.accdb
+C:\Users\user\Desktop\thilina\VB final\New folder\WindowsApplication1\WindowsApplication1\bin\Debug\Items2.accdb
+C:\Users\user\Desktop\thilina\VB final\New folder\WindowsApplication1\WindowsApplication1\bin\Debug\Items3.accdb
+C:\Users\user\Desktop\thilina\VB final\New folder\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\user\Desktop\thilina\VB final\New folder\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\user\Desktop\thilina\VB final\New folder\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Users\user\Desktop\thilina\VB final\New folder\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Form1.resources
+C:\Users\user\Desktop\thilina\VB final\New folder\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.form_center_reciept.resources
+C:\Users\user\Desktop\thilina\VB final\New folder\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.form_card_reciept.resources
+C:\Users\user\Desktop\thilina\VB final\New folder\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Form12.resources
+C:\Users\user\Desktop\thilina\VB final\New folder\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Form2.resources
+C:\Users\user\Desktop\thilina\VB final\New folder\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Form_electricity.resources
+C:\Users\user\Desktop\thilina\VB final\New folder\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Form_water.resources
+C:\Users\user\Desktop\thilina\VB final\New folder\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Form_Tele.resources
+C:\Users\user\Desktop\thilina\VB final\New folder\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Form_creditcard_pay.resources
+C:\Users\user\Desktop\thilina\VB final\New folder\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Form_reload.resources
+C:\Users\user\Desktop\thilina\VB final\New folder\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Form_bill.resources
+C:\Users\user\Desktop\thilina\VB final\New folder\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\user\Desktop\thilina\VB final\New folder\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+F:\MY DOCUMENTS\DCSD\My Tasks\VB my tasks\janko billing project\thilina\VB final\New folder\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+F:\MY DOCUMENTS\DCSD\My Tasks\VB my tasks\janko billing project\thilina\VB final\New folder\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+F:\MY DOCUMENTS\DCSD\My Tasks\VB my tasks\janko billing project\thilina\VB final\New folder\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+F:\MY DOCUMENTS\DCSD\My Tasks\VB my tasks\janko billing project\thilina\VB final\New folder\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+F:\MY DOCUMENTS\DCSD\My Tasks\VB my tasks\janko billing project\thilina\VB final\New folder\WindowsApplication1\WindowsApplication1\bin\Debug\Database2.accdb
+F:\MY DOCUMENTS\DCSD\My Tasks\VB my tasks\janko billing project\thilina\VB final\New folder\WindowsApplication1\WindowsApplication1\bin\Debug\Items2.accdb
+F:\MY DOCUMENTS\DCSD\My Tasks\VB my tasks\janko billing project\thilina\VB final\New folder\WindowsApplication1\WindowsApplication1\bin\Debug\Items3.accdb
+F:\MY DOCUMENTS\DCSD\My Tasks\VB my tasks\janko billing project\thilina\VB final\New folder\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+F:\MY DOCUMENTS\DCSD\My Tasks\VB my tasks\janko billing project\thilina\VB final\New folder\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+F:\MY DOCUMENTS\DCSD\My Tasks\VB my tasks\janko billing project\thilina\VB final\New folder\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+F:\MY DOCUMENTS\DCSD\My Tasks\VB my tasks\janko billing project\thilina\VB final\New folder\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Form1.resources
+F:\MY DOCUMENTS\DCSD\My Tasks\VB my tasks\janko billing project\thilina\VB final\New folder\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.form_center_reciept.resources
+F:\MY DOCUMENTS\DCSD\My Tasks\VB my tasks\janko billing project\thilina\VB final\New folder\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.form_card_reciept.resources
+F:\MY DOCUMENTS\DCSD\My Tasks\VB my tasks\janko billing project\thilina\VB final\New folder\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Form12.resources
+F:\MY DOCUMENTS\DCSD\My Tasks\VB my tasks\janko billing project\thilina\VB final\New folder\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Form2.resources
+F:\MY DOCUMENTS\DCSD\My Tasks\VB my tasks\janko billing project\thilina\VB final\New folder\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Form_electricity.resources
+F:\MY DOCUMENTS\DCSD\My Tasks\VB my tasks\janko billing project\thilina\VB final\New folder\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Form_water.resources
+F:\MY DOCUMENTS\DCSD\My Tasks\VB my tasks\janko billing project\thilina\VB final\New folder\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Form_Tele.resources
+F:\MY DOCUMENTS\DCSD\My Tasks\VB my tasks\janko billing project\thilina\VB final\New folder\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Form_creditcard_pay.resources
+F:\MY DOCUMENTS\DCSD\My Tasks\VB my tasks\janko billing project\thilina\VB final\New folder\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Form_reload.resources
+F:\MY DOCUMENTS\DCSD\My Tasks\VB my tasks\janko billing project\thilina\VB final\New folder\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Form_bill.resources
+F:\MY DOCUMENTS\DCSD\My Tasks\VB my tasks\janko billing project\thilina\VB final\New folder\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+F:\MY DOCUMENTS\DCSD\My Tasks\VB my tasks\janko billing project\thilina\VB final\New folder\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+F:\my projects\VB final\New folder\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+F:\my projects\VB final\New folder\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+F:\my projects\VB final\New folder\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+F:\my projects\VB final\New folder\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+F:\my projects\VB final\New folder\WindowsApplication1\WindowsApplication1\bin\Debug\Database2.accdb
+F:\my projects\VB final\New folder\WindowsApplication1\WindowsApplication1\bin\Debug\Items2.accdb
+F:\my projects\VB final\New folder\WindowsApplication1\WindowsApplication1\bin\Debug\Items3.accdb
+F:\my projects\VB final\New folder\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+F:\my projects\VB final\New folder\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+F:\my projects\VB final\New folder\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+F:\my projects\VB final\New folder\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Form1.resources
+F:\my projects\VB final\New folder\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.form_center_reciept.resources
+F:\my projects\VB final\New folder\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.form_card_reciept.resources
+F:\my projects\VB final\New folder\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Form12.resources
+F:\my projects\VB final\New folder\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Form2.resources
+F:\my projects\VB final\New folder\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Form_electricity.resources
+F:\my projects\VB final\New folder\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Form_water.resources
+F:\my projects\VB final\New folder\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Form_Tele.resources
+F:\my projects\VB final\New folder\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Form_creditcard_pay.resources
+F:\my projects\VB final\New folder\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Form_reload.resources
+F:\my projects\VB final\New folder\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Form_bill.resources
+F:\my projects\VB final\New folder\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+F:\my projects\VB final\New folder\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
